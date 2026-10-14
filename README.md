@@ -72,6 +72,10 @@ without the code cannot join.
 **Light.** Alone, Seam stays out of the way of your mouse. Linked, a mouse event costs it a few microseconds, and game
 mode steps aside while a full-screen game or film is in front.
 
+## Free and Pro
+
+Seam Free carries the mouse and the keyboard between two computers. Seam Pro adds everything else, for any number of computers. The Licence page shows each plan at work between two laptops, scene after scene: rest the pointer on a feature to watch that one alone.
+
 ## Languages and themes
 
 English, French, Spanish, German, Italian, Portuguese, Japanese and Chinese. Ten colour themes and their accents.

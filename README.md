@@ -56,8 +56,8 @@ this computer's sound plays there, and this computer stays silent meanwhile. Mic
 
 **Screens and windows.** Watch any screen or window of another computer, live, in a window here: resize it, put it full
 screen, drive it with this mouse and keyboard, or share it in a video call. Drag a window out of an edge and it goes over
-as the window itself, live and usable: it can sit astride two computers, each showing its part, and its sound follows it
-to the computer holding more than half of it.
+as the window itself, live and usable: click, type, resize or maximise it there; it can sit astride two computers, each
+showing its part, its sound follows it to the computer holding more than half of it, and closing it there sends it home.
 
 ![View](docs/view.png)
 

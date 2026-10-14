@@ -49,9 +49,9 @@ folders. Drag files out of an edge and the drag goes on on the next computer: le
 you want. And the other computers' folders (Desktop, Documents, Downloads...) show in your file manager, to browse,
 search and open like a drive.
 
-**Sound anywhere.** Say which computer this computer's sound plays on: it comes out of whatever that computer plays on,
-the headphones plugged into the laptop for instance, and this computer stays silent meanwhile. The microphone travels the
-same way, one choice.
+**Sound anywhere.** Tick the computers this computer's sound plays on, one or several: it comes out of whatever they play
+on, the headphones plugged into the laptop for instance, and this computer stays silent meanwhile unless you keep it. The
+microphone travels the same way, and so does the webcam: tick a computer and it shows up there in every video call.
 
 ![Audio](docs/audio.png)
 

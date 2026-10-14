@@ -45,8 +45,9 @@ Do the same on every computer of your desk.
 computer behind it; the keyboard follows the cursor. Corners never cross, so they stay usable.
 
 **Clipboard and files.** Copy on one computer, paste on any other: text with its formatting, pictures, files and whole
-folders. Drag files out of an edge and drop them on the next computer. And the other computers' folders (Desktop,
-Documents, Downloads...) show in your file manager, to browse, search and open like a drive.
+folders. Drag files out of an edge and the drag goes on on the next computer: let go in the folder or the application
+you want. And the other computers' folders (Desktop, Documents, Downloads...) show in your file manager, to browse,
+search and open like a drive.
 
 **Sound anywhere.** Pick any output of any computer in one list, the headphones plugged into the laptop for instance:
 this computer's sound plays there, and this computer stays silent meanwhile. Microphones travel too.
@@ -54,8 +55,9 @@ this computer's sound plays there, and this computer stays silent meanwhile. Mic
 ![Audio](docs/audio.png)
 
 **Screens and windows.** Watch any screen or window of another computer, live, in a window here: resize it, put it full
-screen, drive it with this mouse and keyboard, or share it in a video call. Drag a window out of an edge and it opens on
-the other computer, live and usable.
+screen, drive it with this mouse and keyboard, or share it in a video call. Drag a window out of an edge and it goes over
+as the window itself, live and usable: it can sit astride two computers, each showing its part, and its sound follows it
+to the computer holding more than half of it.
 
 ![View](docs/view.png)
 

@@ -59,6 +59,8 @@ microphone travels the same way, and so does the webcam: tick a computer and it 
 screen, drive it with this mouse and keyboard, or share it in a video call. Drag a window out of an edge and it goes over
 as the window itself, live and usable: click, type, resize or maximise it there; it can sit astride two computers, each
 showing its part, its sound follows it to the computer holding more than half of it, and closing it there sends it home.
+It shows the moment it crosses, from a picture sent with it, its video taking over; a right click on its title bar opens
+its own menu (restore, move, size, minimize, maximize, close), and a dialog it opens follows it over.
 
 **Seam Screen.** Install it once from the View page (Windows asks for the administrator's consent) and the other
 computers' screens become virtual screens of this computer while they are linked. A window dragged across then lives on

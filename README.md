@@ -60,6 +60,12 @@ screen, drive it with this mouse and keyboard, or share it in a video call. Drag
 as the window itself, live and usable: click, type, resize or maximise it there; it can sit astride two computers, each
 showing its part, its sound follows it to the computer holding more than half of it, and closing it there sends it home.
 
+**Seam Screen.** Install it once from the View page (Windows asks for the administrator's consent) and the other
+computers' screens become virtual screens of this computer while they are linked. A window dragged across then lives on
+the one that mirrors the screen it went to, at that computer's display scale: a real window on a real screen, sharp,
+its tabs tear off, its dialogs and the windows it opens appear over there by themselves, its menus answer. The virtual
+screens never catch your cursor and go away when the computer unlinks.
+
 ![View](docs/view.png)
 
 **Webcams.** Another computer's webcam becomes this computer's: the **Seam Camera** appears in every video call, with

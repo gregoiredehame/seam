@@ -68,6 +68,12 @@ the one that mirrors the screen it went to, at that computer's display scale: a 
 its tabs tear off, its dialogs and the windows it opens appear over there by themselves, its menus answer. The virtual
 screens never catch your cursor and go away when the computer unlinks.
 
+**Seam Audio.** Install it once from the Audio page and every linked computer appears among this computer's sound
+outputs as Seam (its name) and among its microphones as Seam Microphone (its name): pick one in Windows or in an
+application and the sound goes to that computer, or that computer's microphone comes here. The devices appear while the
+computers are linked. Its driver carries Seam's own test certificate for now: installing turns Windows' test signing on
+(a restart once) and needs Secure Boot off in the firmware settings; removing Seam Audio turns test signing off again.
+
 ![View](docs/view.png)
 
 **Webcams.** Another computer's webcam becomes this computer's: the **Seam Camera** appears in every video call, with

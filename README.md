@@ -42,7 +42,7 @@ Do the same on every computer of your desk.
 ## What it does
 
 **Mouse and keyboard.** Lay your computers out the way they stand. Push the cursor out of an edge and it goes to the
-computer behind it; the keyboard follows the cursor. Corners never cross, so they stay usable.
+computer behind it; the keyboard follows the cursor, and types the same characters on a computer whose keyboard layout differs. Corners never cross, so they stay usable.
 
 **Clipboard and files.** Copy on one computer, paste on any other: text with its formatting, pictures, files and whole
 folders. Drag files out of an edge and the drag goes on on the next computer: let go in the folder or the application
@@ -85,7 +85,7 @@ nothing else to install.
 without the code cannot join.
 
 **Light.** Alone, Seam stays out of the way of your mouse. Linked, a mouse event costs it a few microseconds, and game
-mode steps aside while a full-screen game or film is in front.
+mode steps aside while a game runs in exclusive full screen; a game or a film in a window covering the screen lets the cursor cross.
 
 ## Free and Pro
 

@@ -34,7 +34,8 @@ Do the same on every computer of your desk.
 
 ## First start
 
-1. **Create your Seam account**: your email and a password. One account for all your computers.
+1. **Create your Seam account**: your email and a password. One account for all your computers, with your photo,
+   your name and your colour, shown to the computers you link with.
 2. On the first computer: **Seam > New code**, then **Copy**. Type the same pairing code on every other computer: they
    find each other on the network within seconds and link, every computer with every other.
 3. **Seam > Screens**: drag each computer where it stands on your desk. The layout is shared by the whole group.
